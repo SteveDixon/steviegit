@@ -1,2 +1,11 @@
 this is the first file in the new theme
 .
+
+
+
+
+git remote add production git@git.wpengine.com:production/stevedixongit.git
+
+
+
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
